@@ -3,7 +3,7 @@
 """
 Created on Sun Oct 10 14:03:46 2021
 
-@author: marcus,wendy,kelly,yz
+@author: marcus,wendy,kelly,elaine
 """
 import house
 import school
